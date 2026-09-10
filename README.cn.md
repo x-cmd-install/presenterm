@@ -12,6 +12,18 @@ A markdown terminal slideshow tool
 x install presenterm
 ```
 
+## 代码规模
+
+合计: **25,121** 行代码（覆盖前 5 种语言、共 **110** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 21,378 | 286 | 2,462 | 85 |
+| Yaml | 2,338 | 34 | 244 | 15 |
+| Json | 1,081 | 0 | 0 | 1 |
+| Sh | 101 | 6 | 33 | 6 |
+| Toml | 86 | 2 | 14 | 3 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/mfontanini/presenterm>
@@ -23,6 +35,25 @@ x install presenterm
 - **最新版本**: `v0.16.1` (2026-02-20)
 - **最近提交**: 2026-05-22
 - **Release 含资产**: 24 个
+
+## 流行度
+
+- **Star**: 8,831 · **Fork**: 202 · **开放 issue**: 322 · **贡献者**: 58
+
+## 累计统计
+
+- **发布数**: 23 · **已合并 PR**: 526 · **开放 PR**: 22 · **已关闭 issue**: 266 · **开放 issue**: 56 · **提交数**: 1504
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 7 | 0 | 2 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 8 | 1 | 6 | 0 |
+| last180d | 2026-03-14 | 0 | 12 | 14 | 7 | 16 | 16 |
+| 360d | 2025-09-15 | 2 | 71 | 22 | 40 | 38 | 94 |
+| last720d | 2024-09-20 | 12 | 283 | 22 | 155 | 54 | 723 |
 
 ## Release 资产
 
@@ -53,33 +84,18 @@ x install presenterm
 | [presenterm-0.16.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-x86_64-unknown-linux-musl.tar.gz) | 3.6 MiB | `native/linux/x64/musl` |
 | [presenterm-0.16.1-x86_64-unknown-linux-musl.tar.gz.sha512](https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-x86_64-unknown-linux-musl.tar.gz.sha512) | 181 B | `native/linux/x64/musl` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 8,831 · **Fork**: 202 · **开放 issue**: 322 · **贡献者**: 58
+在 [repology.org](https://repology.org/project/presenterm) 上共有 **29** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 23 · **已合并 PR**: 526 · **开放 PR**: 22 · **已关闭 issue**: 266 · **开放 issue**: 56 · **提交数**: 1504
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 8 | 1 | 6 | 0 |
-| 360d | 2025-09-15 | 2 | 71 | 22 | 40 | 38 | 94 |
-
-## 代码规模
-
-合计: **25,121** 行代码（覆盖前 5 种语言、共 **110** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 21,378 | 286 | 2,462 | 85 |
-| Yaml | 2,338 | 34 | 244 | 15 |
-| Json | 1,081 | 0 | 0 | 1 |
-| Sh | 101 | 6 | 33 | 6 |
-| Toml | 86 | 2 | 14 | 3 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.16.1` | ✅ latest |
+| Homebrew | `0.16.1` | ✅ latest |
+| Nix unstable | `0.16.1` | ✅ latest |
+| Void | `0.16.1` | ✅ latest |
+| Alpine edge | `0.16.1` | ✅ latest |
+| openSUSE Tumbleweed | `0.16.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -90,4 +106,4 @@ presenterm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T15:49:08Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:16:08Z._
