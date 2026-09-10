@@ -1,0 +1,357 @@
+- repo: aosc
+  srcname: app-productivity/presenterm
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.15.1
+  origversion: null
+  status: outdated
+  summary: A terminal slideshow tool that renders Markdown documents
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: altsisyphus
+  srcname: presenterm
+  binnames:
+    - presenterm
+    - presenterm-debuginfo
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1-alt1
+  status: newest
+  summary: A markdown terminal slideshow tool
+  maintainers:
+    - medovi@altlinux.org
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Office
+- repo: arch
+  subrepo: extra
+  srcname: presenterm
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1-1
+  status: newest
+  summary: A markdown terminal slideshow tool
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_24_05
+  srcname: presenterm
+  visiblename: presenterm
+  version: 0.7.0
+  origversion: null
+  status: outdated
+  summary: A terminal based slideshow tool
+  maintainers:
+    - nixpkgs.bottle597@passfwd.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: testing
+  srcname: presenterm
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1-r0
+  status: newest
+  summary: Markdown terminal slideshow tool
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: testing
+  srcname: presenterm
+  binname: presenterm-doc
+  visiblename: presenterm-doc
+  version: 0.16.1
+  origversion: 0.16.1-r0
+  status: newest
+  summary: Markdown terminal slideshow tool (documentation)
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - BSD-2-Clause
+- repo: aur
+  srcname: presenterm-git
+  binname: presenterm-git
+  visiblename: presenterm-git
+  version: 0.2.1.r1.g0f901be
+  origversion: 0.2.1.r1.g0f901be-1
+  status: rolling
+  summary: A terminal slideshow tool
+  maintainers:
+    - pwnwriter@aur
+  licenses:
+    - BSD 2-Clause
+- repo: freebsd
+  srcname: textproc/presenterm
+  binname: presenterm
+  visiblename: textproc/presenterm
+  version: 0.16.1
+  origversion: 0.16.1_1
+  status: newest
+  summary: Markdown terminal slideshow tool
+  maintainers:
+    - nivit@freebsd.org
+  categories:
+    - textproc
+- repo: gentoo
+  srcname: app-misc/presenterm
+  visiblename: app-misc/presenterm
+  version: 0.15.1
+  origversion: null
+  status: outdated
+  summary: A terminal slideshow presentation tool
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - BSD-2
+    - Apache-2.0
+    - BSD
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+  categories:
+    - app-misc
+- repo: homebrew
+  srcname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: null
+  status: newest
+  summary: Terminal slideshow tool
+- repo: homebrew
+  srcname: presenterm
+  visiblename: presenterm
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal slideshow tool
+- repo: liguros_stable
+  srcname: app-misc/presenterm
+  visiblename: app-misc/presenterm
+  version: 0.15.1
+  origversion: null
+  status: outdated
+  summary: A terminal slideshow presentation tool
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - BSD-2
+    - Apache-2.0
+    - BSD
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/presenterm
+  visiblename: app-misc/presenterm
+  version: 0.15.1
+  origversion: null
+  status: outdated
+  summary: A terminal slideshow presentation tool
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - BSD-2
+    - Apache-2.0
+    - BSD
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+  categories:
+    - app-misc
+- repo: macports
+  srcname: graphics/presenterm
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: null
+  status: newest
+  summary: A terminal slideshow tool
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - BSD
+  categories:
+    - graphics
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: presenterm
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1-1
+  status: newest
+  summary: A markdown terminal slideshow tool
+  licenses:
+    - BSD-2-Clause
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: presenterm
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1-1
+  status: newest
+  summary: A markdown terminal slideshow tool
+  licenses:
+    - BSD-2-Clause
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: presenterm
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1-1
+  status: newest
+  summary: A markdown terminal slideshow tool
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_24_11
+  srcname: presenterm
+  visiblename: presenterm
+  version: 0.9.0
+  origversion: null
+  status: outdated
+  summary: Terminal based slideshow tool
+  maintainers:
+    - nixpkgs.bottle597@passfwd.com
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_05
+  srcname: presenterm
+  visiblename: presenterm
+  version: 0.13.0
+  origversion: null
+  status: outdated
+  summary: Terminal based slideshow tool
+  maintainers:
+    - nixpkgs.bottle597@passfwd.com
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_11
+  srcname: presenterm
+  visiblename: presenterm
+  version: 0.15.1
+  origversion: null
+  status: outdated
+  summary: Terminal based slideshow tool
+  maintainers:
+    - nixpkgs.bottle597@passfwd.com
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_26_05
+  srcname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: null
+  status: newest
+  summary: Terminal based slideshow tool
+  maintainers:
+    - gaetan@glepage.com
+    - nixpkgs.bottle597@passfwd.com
+  licenses:
+    - BSD-2-Clause
+- repo: nix_unstable
+  srcname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: null
+  status: newest
+  summary: Terminal based slideshow tool
+  maintainers:
+    - gaetan@glepage.com
+    - nixpkgs.bottle597@passfwd.com
+  licenses:
+    - BSD-2-Clause
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: presenterm
+  binnames:
+    - presenterm
+    - presenterm-debuginfo
+    - presenterm-debugsource
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1-1.5
+  status: newest
+  summary: A terminal slideshow tool
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: presenterm
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1-1
+  status: newest
+  summary: A markdown terminal slideshow tool
+  licenses:
+    - BSD-2-Clause
+- repo: pkgsrc_2026_1
+  srcname: textproc/presenterm
+  binname: presenterm
+  visiblename: textproc/presenterm
+  version: 0.12.0
+  origversion: null
+  status: outdated
+  summary: Markdown terminal slideshow tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_2026_2
+  srcname: textproc/presenterm
+  binname: presenterm
+  visiblename: textproc/presenterm
+  version: 0.12.0
+  origversion: null
+  status: outdated
+  summary: Markdown terminal slideshow tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_current
+  srcname: textproc/presenterm
+  binname: presenterm
+  visiblename: textproc/presenterm
+  version: 0.12.0
+  origversion: null
+  status: outdated
+  summary: Markdown terminal slideshow tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: scoop
+  subrepo: main
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: null
+  status: newest
+  licenses:
+    - BSD-2-Clause
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: presenterm
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1_1
+  status: newest
+  summary: Markdown terminal slideshow tool
+  maintainers:
+    - komeilparseh@disroot.org
+  licenses:
+    - BSD-2-Clause
