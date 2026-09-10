@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.16.1"
   latestRelease: "v0.16.1"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-10T01:46:36Z
+  collectedAt: 2026-09-10T15:48:55Z
 timeline:
   created: 2023-08-27
   lastCommit: 2026-05-22
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-02-20
   lastPrerelease: 2025-03-20
 popularity:
-  star: 8829
+  star: 8831
   watcher: 26
   fork: 202
   release: 23
@@ -86,7 +86,7 @@ total:
   commit: 1504
 ---
 path: /home/runner/.x-repo/github.com/mfontanini/presenterm
-collectedAt: 2026-09-10T01:46:37Z
+collectedAt: 2026-09-10T15:48:59Z
 loc:
   Rust:
     code: 21378
