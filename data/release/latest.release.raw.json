@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 3429089,
       "digest": "sha256:301bc9111db499cb79fb305048b1aad56d3fe91b2c713396fed60ec0c1d2c90c",
-      "download_count": 2136,
+      "download_count": 2137,
       "created_at": "2026-02-20T01:52:45Z",
       "updated_at": "2026-02-20T01:52:45Z",
       "browser_download_url": "https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-x86_64-pc-windows-msvc.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 3717602,
       "digest": "sha256:01fbe92c16d76e84ad9baa10c32ae6ed020a514bf72bd3980a1218250a292b14",
-      "download_count": 1868,
+      "download_count": 1869,
       "created_at": "2026-02-20T01:51:08Z",
       "updated_at": "2026-02-20T01:51:09Z",
       "browser_download_url": "https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-x86_64-unknown-linux-gnu.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 3800922,
       "digest": "sha256:87512d7c88c3d961c7687aca3519f83c2b7611a550cf769c67c6f7948e8b8f54",
-      "download_count": 2211,
+      "download_count": 2212,
       "created_at": "2026-02-20T01:51:28Z",
       "updated_at": "2026-02-20T01:51:28Z",
       "browser_download_url": "https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-x86_64-unknown-linux-musl.tar.gz"
