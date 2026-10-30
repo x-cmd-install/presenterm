@@ -14,11 +14,11 @@ x install presenterm
 
 ## Code insight
 
-Total: **25,624** lines of code across **110** files in the top 5 languages.
+Total: **25,669** lines of code across **110** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 21,869 | 290 | 2,524 | 85 |
+| Rust | 21,914 | 291 | 2,527 | 85 |
 | Yaml | 2,350 | 34 | 244 | 15 |
 | Json | 1,081 | 0 | 0 | 1 |
 | Sh | 101 | 6 | 33 | 6 |
@@ -33,27 +33,27 @@ Total: **25,624** lines of code across **110** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.16.1` (2026-02-20)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-30
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 8,941 · **Forks**: 209 · **Open issues**: 324 · **Contributors**: 66
+- **Stars**: 8,940 · **Forks**: 209 · **Open issues**: 324 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 535 · **Open PRs**: 16 · **Closed issues**: 268 · **Open issues**: 56 · **Commits**: 1523
+- **Releases**: 23 · **Merged PRs**: 536 · **Open PRs**: 16 · **Closed issues**: 268 · **Open issues**: 56 · **Commits**: 1526
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-30 | 0 | 3 | 1 | 1 | 2 | 2 |
-| 90d | 2026-07-31 | 0 | 5 | 1 | 1 | 2 | 5 |
-| last180d | 2026-05-02 | 0 | 9 | 5 | 4 | 13 | 9 |
-| 360d | 2025-11-03 | 2 | 67 | 14 | 27 | 32 | 91 |
-| last720d | 2024-11-08 | 11 | 283 | 16 | 148 | 54 | 713 |
+| 30d | 2026-09-30 | 0 | 0 | 2 | 0 | 1 | 1 |
+| last60d | 2026-08-31 | 0 | 2 | 2 | 1 | 2 | 3 |
+| 90d | 2026-08-01 | 0 | 5 | 2 | 1 | 2 | 6 |
+| last180d | 2026-05-03 | 0 | 10 | 5 | 4 | 13 | 11 |
+| 360d | 2025-11-04 | 2 | 68 | 14 | 27 | 32 | 93 |
+| last720d | 2024-11-09 | 11 | 284 | 16 | 148 | 54 | 711 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for presenterm lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T03:09:29Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T03:13:11Z._
