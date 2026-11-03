@@ -14,11 +14,11 @@ x install presenterm
 
 ## Code insight
 
-Total: **25,687** lines of code across **110** files in the top 5 languages.
+Total: **25,712** lines of code across **110** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 21,930 | 291 | 2,529 | 85 |
+| Rust | 21,955 | 291 | 2,530 | 85 |
 | Yaml | 2,350 | 34 | 244 | 15 |
 | Json | 1,083 | 0 | 0 | 1 |
 | Sh | 101 | 6 | 33 | 6 |
@@ -33,27 +33,27 @@ Total: **25,687** lines of code across **110** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.16.1` (2026-02-20)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-03
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 8,944 · **Forks**: 209 · **Open issues**: 324 · **Contributors**: 67
+- **Stars**: 8,950 · **Forks**: 209 · **Open issues**: 324 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 537 · **Open PRs**: 15 · **Closed issues**: 268 · **Open issues**: 56 · **Commits**: 1530
+- **Releases**: 23 · **Merged PRs**: 538 · **Open PRs**: 9 · **Closed issues**: 268 · **Open issues**: 56 · **Commits**: 1535
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 1 | 1 | 0 | 1 | 4 |
-| last60d | 2026-09-03 | 0 | 3 | 1 | 1 | 2 | 6 |
-| 90d | 2026-08-04 | 0 | 6 | 1 | 1 | 2 | 9 |
-| last180d | 2026-05-06 | 0 | 11 | 4 | 4 | 12 | 13 |
-| 360d | 2025-11-07 | 2 | 68 | 13 | 26 | 32 | 95 |
-| last720d | 2024-11-12 | 11 | 283 | 15 | 147 | 54 | 705 |
+| 30d | 2026-10-04 | 0 | 1 | 1 | 0 | 1 | 4 |
+| last60d | 2026-09-04 | 0 | 3 | 1 | 1 | 2 | 6 |
+| 90d | 2026-08-05 | 0 | 6 | 1 | 1 | 2 | 9 |
+| last180d | 2026-05-07 | 0 | 11 | 4 | 4 | 12 | 13 |
+| 360d | 2025-11-08 | 2 | 69 | 8 | 26 | 32 | 99 |
+| last720d | 2024-11-13 | 11 | 283 | 9 | 146 | 54 | 710 |
 
 ## Release assets
 
@@ -86,7 +86,7 @@ Total: **25,687** lines of code across **110** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **29** distros on [repology.org](https://repology.org/project/presenterm). **16** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **27** distros on [repology.org](https://repology.org/project/presenterm). **14** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -106,4 +106,4 @@ Install metadata for presenterm lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T02:59:49Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T04:18:56Z._
