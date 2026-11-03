@@ -1,3 +1,25 @@
+- repo: nix_stable_24_11
+  srcname: presenterm
+  visiblename: presenterm
+  version: 0.9.0
+  origversion: null
+  status: outdated
+  summary: Terminal based slideshow tool
+  maintainers:
+    - nixpkgs.bottle597@passfwd.com
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_05
+  srcname: presenterm
+  visiblename: presenterm
+  version: 0.13.0
+  origversion: null
+  status: outdated
+  summary: Terminal based slideshow tool
+  maintainers:
+    - nixpkgs.bottle597@passfwd.com
+  licenses:
+    - BSD-2-Clause
 - repo: alpine_edge
   subrepo: testing
   srcname: presenterm
@@ -9,17 +31,6 @@
   summary: Markdown terminal slideshow tool
   maintainers:
     - qaq@qaq.land
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_24_05
-  srcname: presenterm
-  visiblename: presenterm
-  version: 0.7.0
-  origversion: null
-  status: outdated
-  summary: A terminal based slideshow tool
-  maintainers:
-    - nixpkgs.bottle597@passfwd.com
   licenses:
     - BSD-2-Clause
 - repo: alpine_edge
@@ -98,33 +109,6 @@
     - nivit@freebsd.org
   categories:
     - textproc
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: presenterm
-  binnames:
-    - presenterm
-    - presenterm-debuginfo
-    - presenterm-debugsource
-  visiblename: presenterm
-  version: 0.16.1
-  origversion: 0.16.1-1.5
-  status: newest
-  summary: A terminal slideshow tool
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: presenterm
-  binname: presenterm
-  visiblename: presenterm
-  version: 0.16.1
-  origversion: 0.16.1-1
-  status: newest
-  summary: A markdown terminal slideshow tool
-  licenses:
-    - BSD-2-Clause
 - repo: gentoo
   srcname: app-misc/presenterm
   visiblename: app-misc/presenterm
@@ -207,28 +191,6 @@
     - BSD
   categories:
     - graphics
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: presenterm
-  binname: presenterm
-  visiblename: presenterm
-  version: 0.16.1
-  origversion: 0.16.1-1
-  status: newest
-  summary: A markdown terminal slideshow tool
-  licenses:
-    - BSD-2-Clause
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: presenterm
-  binname: presenterm
-  visiblename: presenterm
-  version: 0.16.1
-  origversion: 0.16.1-1
-  status: newest
-  summary: A markdown terminal slideshow tool
-  licenses:
-    - BSD-2-Clause
 - repo: manjaro_unstable
   subrepo: extra
   srcname: presenterm
@@ -240,24 +202,13 @@
   summary: A markdown terminal slideshow tool
   licenses:
     - BSD-2-Clause
-- repo: nix_stable_24_11
+- repo: nix_stable_24_05
   srcname: presenterm
   visiblename: presenterm
-  version: 0.9.0
+  version: 0.7.0
   origversion: null
   status: outdated
-  summary: Terminal based slideshow tool
-  maintainers:
-    - nixpkgs.bottle597@passfwd.com
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_25_05
-  srcname: presenterm
-  visiblename: presenterm
-  version: 0.13.0
-  origversion: null
-  status: outdated
-  summary: Terminal based slideshow tool
+  summary: A terminal based slideshow tool
   maintainers:
     - nixpkgs.bottle597@passfwd.com
   licenses:
@@ -295,6 +246,33 @@
   maintainers:
     - gaetan@glepage.com
     - nixpkgs.bottle597@passfwd.com
+  licenses:
+    - BSD-2-Clause
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: presenterm
+  binnames:
+    - presenterm
+    - presenterm-debuginfo
+    - presenterm-debugsource
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1-1.5
+  status: newest
+  summary: A terminal slideshow tool
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: presenterm
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1-1
+  status: newest
+  summary: A markdown terminal slideshow tool
   licenses:
     - BSD-2-Clause
 - repo: pkgsrc_2026_2
