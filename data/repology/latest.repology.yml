@@ -1,21 +1,32 @@
-- repo: nix_stable_24_11
+- repo: manjaro_testing
+  subrepo: extra
   srcname: presenterm
+  binname: presenterm
   visiblename: presenterm
-  version: 0.9.0
-  origversion: null
-  status: outdated
-  summary: Terminal based slideshow tool
-  maintainers:
-    - nixpkgs.bottle597@passfwd.com
+  version: 0.16.1
+  origversion: 0.16.1-1
+  status: newest
+  summary: A markdown terminal slideshow tool
   licenses:
     - BSD-2-Clause
-- repo: nix_stable_25_05
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: presenterm
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1-1
+  status: newest
+  summary: A markdown terminal slideshow tool
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_24_05
   srcname: presenterm
   visiblename: presenterm
-  version: 0.13.0
+  version: 0.7.0
   origversion: null
   status: outdated
-  summary: Terminal based slideshow tool
+  summary: A terminal based slideshow tool
   maintainers:
     - nixpkgs.bottle597@passfwd.com
   licenses:
@@ -191,7 +202,7 @@
     - BSD
   categories:
     - graphics
-- repo: manjaro_unstable
+- repo: manjaro_stable
   subrepo: extra
   srcname: presenterm
   binname: presenterm
@@ -202,13 +213,24 @@
   summary: A markdown terminal slideshow tool
   licenses:
     - BSD-2-Clause
-- repo: nix_stable_24_05
+- repo: nix_stable_24_11
   srcname: presenterm
   visiblename: presenterm
-  version: 0.7.0
+  version: 0.9.0
   origversion: null
   status: outdated
-  summary: A terminal based slideshow tool
+  summary: Terminal based slideshow tool
+  maintainers:
+    - nixpkgs.bottle597@passfwd.com
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_05
+  srcname: presenterm
+  visiblename: presenterm
+  version: 0.13.0
+  origversion: null
+  status: outdated
+  summary: Terminal based slideshow tool
   maintainers:
     - nixpkgs.bottle597@passfwd.com
   licenses:
