@@ -38,22 +38,22 @@ Total: **25,731** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,962 · **Forks**: 210 · **Open issues**: 325 · **Contributors**: 69
+- **Stars**: 8,966 · **Forks**: 211 · **Open issues**: 325 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 542 · **Open PRs**: 7 · **Closed issues**: 273 · **Open issues**: 52 · **Commits**: 1543
+- **Releases**: 23 · **Merged PRs**: 542 · **Open PRs**: 8 · **Closed issues**: 273 · **Open issues**: 52 · **Commits**: 1543
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 4 | 0 | 1 | 1 | 7 |
-| last60d | 2026-09-09 | 0 | 6 | 0 | 2 | 1 | 9 |
-| 90d | 2026-08-10 | 0 | 9 | 0 | 2 | 2 | 12 |
-| last180d | 2026-05-12 | 0 | 14 | 2 | 9 | 8 | 16 |
-| 360d | 2025-11-13 | 2 | 73 | 6 | 31 | 28 | 85 |
-| last720d | 2024-11-18 | 11 | 284 | 7 | 151 | 50 | 707 |
+| 30d | 2026-10-10 | 0 | 4 | 1 | 1 | 1 | 7 |
+| last60d | 2026-09-10 | 0 | 6 | 1 | 2 | 1 | 9 |
+| 90d | 2026-08-11 | 0 | 9 | 1 | 2 | 2 | 12 |
+| last180d | 2026-05-13 | 0 | 14 | 3 | 9 | 8 | 16 |
+| 360d | 2025-11-14 | 2 | 73 | 7 | 31 | 28 | 85 |
+| last720d | 2024-11-19 | 11 | 284 | 8 | 151 | 50 | 707 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for presenterm lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T02:57:53Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T03:19:57Z._
