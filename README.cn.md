@@ -38,7 +38,7 @@ x install presenterm
 
 ## 流行度
 
-- **Star**: 8,974 · **Fork**: 211 · **开放 issue**: 325 · **贡献者**: 69
+- **Star**: 8,975 · **Fork**: 211 · **开放 issue**: 325 · **贡献者**: 69
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install presenterm
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 4 | 1 | 1 | 1 | 7 |
-| last60d | 2026-09-14 | 0 | 6 | 1 | 2 | 1 | 9 |
-| 90d | 2026-08-15 | 0 | 9 | 1 | 2 | 2 | 12 |
-| last180d | 2026-05-17 | 0 | 13 | 3 | 7 | 8 | 16 |
-| 360d | 2025-11-18 | 2 | 69 | 7 | 30 | 28 | 85 |
-| last720d | 2024-11-23 | 11 | 284 | 8 | 150 | 50 | 701 |
+| 30d | 2026-10-15 | 0 | 4 | 1 | 1 | 1 | 7 |
+| last60d | 2026-09-15 | 0 | 6 | 1 | 2 | 1 | 9 |
+| 90d | 2026-08-16 | 0 | 9 | 1 | 2 | 2 | 12 |
+| last180d | 2026-05-18 | 0 | 13 | 3 | 7 | 8 | 16 |
+| 360d | 2025-11-19 | 2 | 63 | 7 | 29 | 25 | 85 |
+| last720d | 2024-11-24 | 11 | 284 | 8 | 150 | 50 | 701 |
 
 ## Release 资产
 
@@ -86,10 +86,13 @@ x install presenterm
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/presenterm) 上共有 **29** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/presenterm) 上共有 **39** 个发行版报告此项目。**25** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
+| Debian unstable | `0.16.1` | ✅ latest |
+| Debian 14 | `0.16.1` | ✅ latest |
+| Ubuntu 26.04 LTS | `0.15.1` | ⚠️ outdated |
 | Arch | `0.16.1` | ✅ latest |
 | Homebrew | `0.16.1` | ✅ latest |
 | Nix unstable | `0.16.1` | ✅ latest |
@@ -106,4 +109,4 @@ presenterm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261113.yml` · 2026-11-13T03:50:59Z._
+_数据快照: `data/card/261114.yml` · 2026-11-14T03:49:15Z._
