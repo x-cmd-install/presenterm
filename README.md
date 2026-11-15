@@ -38,7 +38,7 @@ Total: **25,731** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,975 · **Forks**: 211 · **Open issues**: 325 · **Contributors**: 69
+- **Stars**: 8,978 · **Forks**: 211 · **Open issues**: 325 · **Contributors**: 69
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **25,731** lines of code across **110** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 4 | 1 | 1 | 1 | 7 |
-| last60d | 2026-09-15 | 0 | 6 | 1 | 2 | 1 | 9 |
-| 90d | 2026-08-16 | 0 | 9 | 1 | 2 | 2 | 12 |
-| last180d | 2026-05-18 | 0 | 13 | 3 | 7 | 8 | 16 |
-| 360d | 2025-11-19 | 2 | 63 | 7 | 29 | 25 | 85 |
-| last720d | 2024-11-24 | 11 | 284 | 8 | 150 | 50 | 701 |
+| 30d | 2026-10-16 | 0 | 4 | 1 | 1 | 1 | 7 |
+| last60d | 2026-09-16 | 0 | 6 | 1 | 2 | 1 | 9 |
+| 90d | 2026-08-17 | 0 | 9 | 1 | 2 | 2 | 12 |
+| last180d | 2026-05-19 | 0 | 13 | 3 | 6 | 8 | 16 |
+| 360d | 2025-11-20 | 2 | 62 | 7 | 29 | 25 | 85 |
+| last720d | 2024-11-25 | 11 | 283 | 8 | 150 | 50 | 701 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for presenterm lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T03:49:15Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T03:29:48Z._
