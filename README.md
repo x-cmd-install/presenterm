@@ -38,7 +38,7 @@ Total: **25,722** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,988 · **Forks**: 211 · **Open issues**: 326 · **Contributors**: 69
+- **Stars**: 8,991 · **Forks**: 211 · **Open issues**: 326 · **Contributors**: 69
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **25,722** lines of code across **110** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-19 | 0 | 7 | 1 | 2 | 1 | 10 |
-| last60d | 2026-09-19 | 0 | 9 | 1 | 3 | 1 | 12 |
-| 90d | 2026-08-20 | 0 | 12 | 1 | 3 | 2 | 14 |
-| last180d | 2026-05-22 | 0 | 15 | 2 | 10 | 4 | 18 |
-| 360d | 2025-11-23 | 2 | 62 | 6 | 33 | 20 | 67 |
-| last720d | 2024-11-28 | 11 | 285 | 7 | 155 | 45 | 705 |
+| 30d | 2026-10-20 | 0 | 7 | 1 | 2 | 1 | 10 |
+| last60d | 2026-09-20 | 0 | 9 | 1 | 3 | 1 | 12 |
+| 90d | 2026-08-21 | 0 | 11 | 1 | 3 | 2 | 14 |
+| last180d | 2026-05-23 | 0 | 15 | 2 | 10 | 4 | 18 |
+| 360d | 2025-11-24 | 2 | 58 | 6 | 33 | 20 | 67 |
+| last720d | 2024-11-29 | 11 | 285 | 7 | 155 | 45 | 702 |
 
 ## Release assets
 
@@ -86,7 +86,7 @@ Total: **25,722** lines of code across **110** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/presenterm). **25** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **38** distros on [repology.org](https://repology.org/project/presenterm). **24** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,4 +109,4 @@ Install metadata for presenterm lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261118.yml` · 2026-11-18T04:55:19Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T04:48:35Z._
