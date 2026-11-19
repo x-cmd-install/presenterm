@@ -1,3 +1,28 @@
+- repo: homebrew
+  srcname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: null
+  status: newest
+  summary: Terminal slideshow tool
+- repo: homebrew
+  srcname: presenterm
+  visiblename: presenterm
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal slideshow tool
+- repo: nix_stable_25_05
+  srcname: presenterm
+  visiblename: presenterm
+  version: 0.13.0
+  origversion: null
+  status: outdated
+  summary: Terminal based slideshow tool
+  maintainers:
+    - nixpkgs.bottle597@passfwd.com
+  licenses:
+    - BSD-2-Clause
 - repo: nix_stable_25_11
   srcname: presenterm
   visiblename: presenterm
@@ -9,6 +34,29 @@
     - nixpkgs.bottle597@passfwd.com
   licenses:
     - BSD-2-Clause
+- repo: arch
+  subrepo: extra
+  srcname: presenterm
+  binname: presenterm
+  visiblename: presenterm
+  version: 0.16.1
+  origversion: 0.16.1-1
+  status: newest
+  summary: A markdown terminal slideshow tool
+  licenses:
+    - BSD-2-Clause
+- repo: aur
+  srcname: presenterm-git
+  binname: presenterm-git
+  visiblename: presenterm-git
+  version: 0.2.1.r1.g0f901be
+  origversion: 0.2.1.r1.g0f901be-1
+  status: rolling
+  summary: A terminal slideshow tool
+  maintainers:
+    - pwnwriter@aur
+  licenses:
+    - BSD 2-Clause
 - repo: alpine_edge
   subrepo: testing
   srcname: presenterm
@@ -63,29 +111,6 @@
     - fallback-mnt-aosc@repology
   categories:
     - utils
-- repo: arch
-  subrepo: extra
-  srcname: presenterm
-  binname: presenterm
-  visiblename: presenterm
-  version: 0.16.1
-  origversion: 0.16.1-1
-  status: newest
-  summary: A markdown terminal slideshow tool
-  licenses:
-    - BSD-2-Clause
-- repo: aur
-  srcname: presenterm-git
-  binname: presenterm-git
-  visiblename: presenterm-git
-  version: 0.2.1.r1.g0f901be
-  origversion: 0.2.1.r1.g0f901be-1
-  status: rolling
-  summary: A terminal slideshow tool
-  maintainers:
-    - pwnwriter@aur
-  licenses:
-    - BSD 2-Clause
 - repo: crates_io
   srcname: presenterm
   visiblename: presenterm
@@ -165,20 +190,6 @@
     - Unicode-3.0
   categories:
     - app-misc
-- repo: homebrew
-  srcname: presenterm
-  visiblename: presenterm
-  version: 0.16.1
-  origversion: null
-  status: newest
-  summary: Terminal slideshow tool
-- repo: homebrew
-  srcname: presenterm
-  visiblename: presenterm
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Terminal slideshow tool
 - repo: kali_rolling
   subrepo: main
   srcname: rust-presenterm
@@ -291,17 +302,6 @@
   srcname: presenterm
   visiblename: presenterm
   version: 0.9.0
-  origversion: null
-  status: outdated
-  summary: Terminal based slideshow tool
-  maintainers:
-    - nixpkgs.bottle597@passfwd.com
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_25_05
-  srcname: presenterm
-  visiblename: presenterm
-  version: 0.13.0
   origversion: null
   status: outdated
   summary: Terminal based slideshow tool
@@ -449,20 +449,6 @@
     - universe/misc
 - repo: ubuntu_27_04
   subrepo: tenacious/universe
-  srcname: rust-presenterm
-  binnames:
-    - presenterm
-  visiblename: rust-presenterm
-  version: 0.16.1
-  origversion: 0.16.1+dfsg-2
-  status: newest
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - weepingclown@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_27_04_proposed
-  subrepo: tenacious-proposed/universe
   srcname: rust-presenterm
   binnames:
     - presenterm
