@@ -38,22 +38,22 @@ Total: **25,830** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,999 · **Forks**: 213 · **Open issues**: 330 · **Contributors**: 70
+- **Stars**: 9,003 · **Forks**: 213 · **Open issues**: 331 · **Contributors**: 70
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 546 · **Open PRs**: 7 · **Closed issues**: 281 · **Open issues**: 49 · **Commits**: 1551
+- **Releases**: 23 · **Merged PRs**: 546 · **Open PRs**: 7 · **Closed issues**: 281 · **Open issues**: 50 · **Commits**: 1551
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 8 | 1 | 3 | 3 | 7 |
-| last60d | 2026-09-26 | 0 | 9 | 1 | 4 | 3 | 11 |
-| 90d | 2026-08-27 | 0 | 11 | 1 | 5 | 4 | 14 |
-| last180d | 2026-05-29 | 0 | 16 | 2 | 11 | 6 | 19 |
-| 360d | 2025-11-30 | 2 | 52 | 6 | 34 | 22 | 67 |
-| last720d | 2024-12-05 | 11 | 285 | 7 | 156 | 47 | 700 |
+| 30d | 2026-10-27 | 0 | 8 | 1 | 3 | 4 | 7 |
+| last60d | 2026-09-27 | 0 | 9 | 1 | 4 | 4 | 11 |
+| 90d | 2026-08-28 | 0 | 11 | 1 | 5 | 5 | 14 |
+| last180d | 2026-05-30 | 0 | 16 | 2 | 11 | 7 | 19 |
+| 360d | 2025-12-01 | 2 | 52 | 6 | 34 | 23 | 67 |
+| last720d | 2024-12-06 | 11 | 285 | 7 | 156 | 48 | 700 |
 
 ## Release assets
 
@@ -84,22 +84,6 @@ Total: **25,830** lines of code across **110** files in the top 5 languages.
 | [presenterm-0.16.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-x86_64-unknown-linux-musl.tar.gz) | 3.6 MiB | `native/linux/x64/musl` |
 | [presenterm-0.16.1-x86_64-unknown-linux-musl.tar.gz.sha512](https://github.com/mfontanini/presenterm/releases/download/v0.16.1/presenterm-0.16.1-x86_64-unknown-linux-musl.tar.gz.sha512) | 181 B | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **38** distros on [repology.org](https://repology.org/project/presenterm). **24** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.16.1` | ✅ latest |
-| Debian 14 | `0.16.1` | ✅ latest |
-| Ubuntu 26.04 LTS | `0.15.1` | ⚠️ outdated |
-| Arch | `0.16.1` | ✅ latest |
-| Homebrew | `0.16.1` | ✅ latest |
-| Nix unstable | `0.16.1` | ✅ latest |
-| Void | `0.16.1` | ✅ latest |
-| Alpine edge | `0.16.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.16.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for presenterm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `presenterm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -109,4 +93,4 @@ Install metadata for presenterm lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T05:52:38Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T05:43:19Z._
